@@ -1,0 +1,43 @@
+.box {
+    background-color: white;
+    min-height: 105vh;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+body {
+    background-image: url(./pink\ cloud.gif);
+
+}
+
+nav{
+    margin: 0px;
+    background-color: rgb(234,198,214);
+    
+    
+}
+.post{
+    margin-top: 20px;
+}
+
+.container{
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.navbar {
+    height:80px;}
+
+body{
+    font-family: 'Playfair Display', serif;
+    ;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
